@@ -1,0 +1,5 @@
+{
+  "name": "Pizzaiolo - Authentic Modern Pizza",
+  "description": "High-converting website for Pizzaiolo, a modern authentic pizza restaurant focusing on quality ingredients and fast-casual dining.",
+  "requestFramePermissions": ["geolocation"]
+}
